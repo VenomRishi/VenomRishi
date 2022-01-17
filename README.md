@@ -1,6 +1,6 @@
 ### Hi there, I am Rishikesh - aka [VenomRishi](https://github.com/VenomRishi) 👋
 
-### Motivated - Quick Learner - Mentor
+## Motivated - Quick Learner - Mentor
 
 Here are some ideas to get you started:
 
