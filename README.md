@@ -39,6 +39,5 @@
 </p>
 
 ## ❤ Views and Followers
-
 <img src="https://komarev.com/ghpvc/?username=VenomRishi">
 <a href="https://github.com/VenomRishi?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
